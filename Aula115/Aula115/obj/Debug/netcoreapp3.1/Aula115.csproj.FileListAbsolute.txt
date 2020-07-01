@@ -1,0 +1,13 @@
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\Aula115\Aula115\bin\Debug\netcoreapp3.1\Aula115.exe
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\Aula115\Aula115\bin\Debug\netcoreapp3.1\Aula115.deps.json
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\Aula115\Aula115\bin\Debug\netcoreapp3.1\Aula115.runtimeconfig.json
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\Aula115\Aula115\bin\Debug\netcoreapp3.1\Aula115.runtimeconfig.dev.json
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\Aula115\Aula115\bin\Debug\netcoreapp3.1\Aula115.dll
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\Aula115\Aula115\bin\Debug\netcoreapp3.1\Aula115.pdb
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\Aula115\Aula115\obj\Debug\netcoreapp3.1\Aula115.csprojAssemblyReference.cache
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\Aula115\Aula115\obj\Debug\netcoreapp3.1\Aula115.csproj.CoreCompileInputs.cache
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\Aula115\Aula115\obj\Debug\netcoreapp3.1\Aula115.AssemblyInfoInputs.cache
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\Aula115\Aula115\obj\Debug\netcoreapp3.1\Aula115.AssemblyInfo.cs
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\Aula115\Aula115\obj\Debug\netcoreapp3.1\Aula115.dll
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\Aula115\Aula115\obj\Debug\netcoreapp3.1\Aula115.pdb
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\Aula115\Aula115\obj\Debug\netcoreapp3.1\Aula115.genruntimeconfig.cache
