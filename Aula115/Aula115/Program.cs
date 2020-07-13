@@ -10,14 +10,14 @@ namespace Aula115
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter department 's name: ");
+            Console.Write("Enter department's name: ");
             string deptName = Console.ReadLine();
-            Console.WriteLine("Enter worker data: ");
-            Console.WriteLine("Name: ");
+            Console.Write("Enter worker data: ");
+            Console.Write("Name: ");
             string name = Console.ReadLine();
-            Console.WriteLine("Level (Junior/MidLevel/Senior): ");
+            Console.Write("Level (Junior/MidLevel/Senior): ");
             WorkerLevel level = Enum.Parse<WorkerLevel>(Console.ReadLine());
-            Console.Write("Base salary");
+            Console.Write("Base salary: ");
             double baseSalary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Department dept = new Department(deptName);
@@ -37,19 +37,21 @@ namespace Aula115
                 Console.WriteLine("Duration (hours): ");
                 int hours = int.Parse(Console.ReadLine());
 
-                HourContract contract = new HourContract(date, valuePerHour, hours);
+                HourContract contract = new HourContract(date, valuePerHour, hours); // Instanciar contrato
                 worker.AddContract(contract);
 
             }
 
 
-            Console.WriteLine("");
+            Console.WriteLine();
             Console.WriteLine("Enter month and year to calculate income (MM/YYYY):  ");
             string monthAndYear = Console.ReadLine();
             int month = int.Parse(monthAndYear.Substring(0, 2));
             int year =  int.Parse(monthAndYear.Substring(3));
 
-            Console.WriteLine("Nome: "  +worker.name) ;
+            Console.WriteLine("Nome: "  +worker.Name);
+            Console.WriteLine("Department: " +worker.Department.Name );
+            Console.WriteLine("Income for " +monthAndYear + ": " +worker.Income(year,month));
 
 
 

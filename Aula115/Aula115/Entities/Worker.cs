@@ -14,15 +14,15 @@ namespace Aula115.Entities
         public double BaseSalary { get; set; }
         public Department Department { get; set; } //Propriedade Department do tipo Department
 
-        public List<HourContract> Contracts { get; set; } = new List<HourContract>();
-        public static string name { get; internal set; }
+        public List<HourContract> Contracts { get; private set; } = new List<HourContract>();
+        
 
         public Worker() // Contrutor
         {
 
         }
 
-        public Worker(string nome, WorkerLevel level, double baseSalary, Department department)//Construtor com Argumentos
+        public Worker(string name, WorkerLevel level, double baseSalary, Department department)//Construtor com Argumentos
         {
             Name = name;
             Level = level;
@@ -30,11 +30,11 @@ namespace Aula115.Entities
             Department = department;
         }
 
-        public void AddContract(HourContract contract)
+        public void AddContract(HourContract contract)// Metodo para adicionar contrato .Add
         {
             Contracts.Add(contract);
         }
-        public void RemoveContract(HourContract contract)
+        public void RemoveContract(HourContract contract)// Metodo para Remover contrato .Remove
         {
             Contracts.Remove(contract);
 
