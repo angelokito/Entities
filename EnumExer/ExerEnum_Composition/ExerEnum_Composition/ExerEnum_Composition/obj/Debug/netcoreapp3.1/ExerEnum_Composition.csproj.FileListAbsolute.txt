@@ -1,0 +1,13 @@
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\EnumExer\ExerEnum_Composition\ExerEnum_Composition\ExerEnum_Composition\bin\Debug\netcoreapp3.1\ExerEnum_Composition.exe
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\EnumExer\ExerEnum_Composition\ExerEnum_Composition\ExerEnum_Composition\bin\Debug\netcoreapp3.1\ExerEnum_Composition.deps.json
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\EnumExer\ExerEnum_Composition\ExerEnum_Composition\ExerEnum_Composition\bin\Debug\netcoreapp3.1\ExerEnum_Composition.runtimeconfig.json
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\EnumExer\ExerEnum_Composition\ExerEnum_Composition\ExerEnum_Composition\bin\Debug\netcoreapp3.1\ExerEnum_Composition.runtimeconfig.dev.json
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\EnumExer\ExerEnum_Composition\ExerEnum_Composition\ExerEnum_Composition\bin\Debug\netcoreapp3.1\ExerEnum_Composition.dll
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\EnumExer\ExerEnum_Composition\ExerEnum_Composition\ExerEnum_Composition\bin\Debug\netcoreapp3.1\ExerEnum_Composition.pdb
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\EnumExer\ExerEnum_Composition\ExerEnum_Composition\ExerEnum_Composition\obj\Debug\netcoreapp3.1\ExerEnum_Composition.csproj.CoreCompileInputs.cache
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\EnumExer\ExerEnum_Composition\ExerEnum_Composition\ExerEnum_Composition\obj\Debug\netcoreapp3.1\ExerEnum_Composition.AssemblyInfoInputs.cache
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\EnumExer\ExerEnum_Composition\ExerEnum_Composition\ExerEnum_Composition\obj\Debug\netcoreapp3.1\ExerEnum_Composition.AssemblyInfo.cs
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\EnumExer\ExerEnum_Composition\ExerEnum_Composition\ExerEnum_Composition\obj\Debug\netcoreapp3.1\ExerEnum_Composition.dll
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\EnumExer\ExerEnum_Composition\ExerEnum_Composition\ExerEnum_Composition\obj\Debug\netcoreapp3.1\ExerEnum_Composition.pdb
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\EnumExer\ExerEnum_Composition\ExerEnum_Composition\ExerEnum_Composition\obj\Debug\netcoreapp3.1\ExerEnum_Composition.genruntimeconfig.cache
+C:\Users\kitoc\OneDrive\Área de Trabalho\TraC#\Udemy\EnumExer\ExerEnum_Composition\ExerEnum_Composition\ExerEnum_Composition\obj\Debug\netcoreapp3.1\ExerEnum_Composition.csprojAssemblyReference.cache
